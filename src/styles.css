@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+.video-container {
+  width: 80%;
+  background-color: grey;
+  margin: auto;
+}
+
+.button-container {
+  width: 80%;
+  margin: auto;
+  padding-top: 10px;
+}
